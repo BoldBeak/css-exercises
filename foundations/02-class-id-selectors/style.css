@@ -3,6 +3,16 @@ p:nth-child(odd) {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* p:nth-child(2n) {
+#no2 {
+  color: #3342eb;
+  font-size: 36px;
+}
+
+.cooler, #no4 {
   font-size: 24px;
-} */
+}
+
+#no4 {
+  background-color: hsl(82, 45%, 45%);
+  font-weight: bold;
+}
