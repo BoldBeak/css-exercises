@@ -2,3 +2,7 @@ p:nth-child(odd) {
   background-color: #f57575;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* p:nth-child(2n) {
+  font-size: 24px;
+} */
