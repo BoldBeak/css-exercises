@@ -7,7 +7,8 @@
   background-color: #e6d80f;
 }
 
-button {
-  font-size: 28[x;
+.btn1, 
+.btn2 {
+  font-size: 28px;
   font-family: 'Helvtica', 'Times New Roman', sans-serif;
 }
